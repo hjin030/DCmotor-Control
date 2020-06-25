@@ -1,3 +1,3 @@
 # DCmotor-Control
 
-This is a simple DC motor control by arduino and python.
+This is a simple DC motor control by arduino and python GUI library.
